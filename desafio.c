@@ -43,4 +43,5 @@ int main(){
             qtd -= 2; // a qtd de espacos sempre comeca com o mesmo valor da ultima linha da parte superior e vai diminuindo de dois em dois
         }
     }
+    system("pause");
 }
